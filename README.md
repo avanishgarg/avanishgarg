@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h4>👋 Hi there! I'm Avanish, a passionate Computer Science student with a love for machine learning and data science. I enjoy creating innovative solutions and exploring new technologies. Follow along with my journey as I code my way through exciting projects!</h4>
+<h3>👋 Hi there! I'm Avanish, a passionate Computer Science student with a love for machine learning and data science. I enjoy creating innovative solutions and exploring new technologies. Follow along with my journey as I code my way through exciting projects!</h3>
     
 # 💻 Tech Stack:
 
