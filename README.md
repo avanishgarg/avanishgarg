@@ -2,8 +2,9 @@
 <h3>👋 Hi there! I'm Avanish, a passionate Computer Science student with a love for machine learning and data science. I enjoy creating innovative solutions and exploring new technologies. Follow along with my journey as I code my way through exciting projects!</h3>
 
 
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://avanishgarg.netlify.app)
-
+<a href="https://avanishgarg.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge" alt="Portfolio">
+</a>
     
 # 💻 Tech Stack:
 
